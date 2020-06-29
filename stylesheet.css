@@ -1,0 +1,61 @@
+body {
+  background-image:url("galaxy.jpg");
+}
+li {
+  list-style:none;
+}
+.bagian {
+  padding: 0px 40px;
+}
+.bagiansatu h1 {
+  font-family:"Berlin Sans FB";
+  font-size: 100px;
+}
+.bagiansatu h2 {
+  font-family:"Book Antiqua";
+  font-size: 50px;
+}
+.bagiandua {
+  height: 50px;
+  margin-top: 100px;
+  font-family:"Book Antiqua";
+  width: 1250px;
+}
+.dengar {
+  font-size: 38px;
+  padding-bottom: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+  width: 1250px;
+}
+.basatu {
+  float:left;
+  margin-right: 10px;
+}
+.basatu p {
+  font-size: 27px;
+  margin-top: 20px;
+  text-align: center;
+}
+.bagiantiga {
+  font-size: 10px;
+  text-align: center;
+  margin-bottom: 3px;
+  width: 1250px;
+}
+.bawah {
+  background-color: #193066;
+  color: black;
+  height: 34px;
+  padding: 50px;
+}
+.bawah-logo {
+  float: left;
+  font-size: 54px;
+  padding-left: 1px;
+}
+.bawah h1 {
+  font-size: 34px;
+  text-align: center;
+  margin-right: 5px;
+}
