@@ -1,5 +1,6 @@
 body {
   background-image:url("galaxy.jpg");
+  background-size: cover;
 }
 li {
   list-style:none;
