@@ -4,7 +4,7 @@ body {
   background-attachment: fixed;
 }
 .atas {
-  background-color: #193066;
+  background-color: black;
   color: black;
   height: 100px;
   font-family: "Bookself Symbol 7";
@@ -45,7 +45,7 @@ h2 {
   text-align: center;
 }
 .dengar:hover {
-  background-color: #1e3374;
+  background-color: #662615;
   height: 35px;
   opacity: 1;
 }
