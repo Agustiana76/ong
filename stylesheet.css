@@ -4,7 +4,7 @@ body {
   background-attachment: fixed;
 }
 .atas {
-  background-color: #c926eb;
+  background-color: #c320bd;
   color: black;
   height: 100px;
   font-family: "Bookself Symbol 7";
@@ -69,7 +69,7 @@ h2 {
   padding-top: 8px;
 }
 .bawah h1:hover {
-  color: #bb3038;
+  color: #99163d;
 }
 
 img {
