@@ -1,5 +1,5 @@
 body {
-  background-image: "galaxy.jpg";
+  background-image: url("galaxy.jpg");
   background-size: cover;
 }
 .atas {
