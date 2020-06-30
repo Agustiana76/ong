@@ -1,0 +1,79 @@
+body {
+  background-image: url("galaxy.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.atas {
+  background-color: #c926eb;
+  color: black;
+  height: 100px;
+  font-family: "Bookself Symbol 7";
+}
+.atas-logo{
+  float:left;
+  font-size: 50px;
+  padding: 5px 40px;
+}
+.atas h3 {
+  font-size: 28px;
+  float:right;
+  padding: 25px 20px;
+}
+
+.bagiansatu {
+  margin-left: 30px;
+}
+h1 {
+  font-family:"Berlin Sans FB";
+  font-size: 88px;
+  margin-top: 5px;
+}
+h2 {
+  font-family:"Book Antiqua";
+  font-size: 50px;
+  padding-top: 5px;
+}
+.bagiandua {
+  height: 50px;
+  font-family:"Book Antiqua";
+}
+.dengar {
+  font-size: 38px;
+  padding-bottom: 15px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.dengar:hover {
+  background-color: #662615;
+  height: 35px;
+  opacity: 1;
+}
+
+.basatu {
+  width: 50%;
+  float:left;
+  margin-bottom: 10px;
+}
+
+.basatu p {
+  font-size: 27px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.bawah h1 {
+  font-size: 30px;
+  text-align: center;
+  font-family: gigi;
+  padding-top: 8px;
+}
+.bawah h1:hover {
+  color: #bb3038;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  padding-left: 225px;
+}
