@@ -4,10 +4,11 @@ body {
   background-attachment: fixed;
 }
 .atas {
-  background-color: #c320bd;
+  background-color: #dd45fc;
   color: black;
   height: 100px;
   font-family: "Bookself Symbol 7";
+  margin-top: 0px;
 }
 .atas-logo{
   float:left;
